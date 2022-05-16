@@ -6,6 +6,7 @@ const Details = () => {
     'Details'
       
 </Text>
+  )
 }
 
 export default Details
